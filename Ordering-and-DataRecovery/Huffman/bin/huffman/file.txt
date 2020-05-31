@@ -1,0 +1,4 @@
+12345678910.
+Teste CODIFICAÇÃO.
+Teste DECODIFICAÇÃO.
+Algoritmo de Huffman.
