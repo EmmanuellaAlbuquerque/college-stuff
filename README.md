@@ -1,0 +1,1 @@
+# Projetos implementados durante estudos da disciplina de Sistemas Operacionais.
