@@ -1,0 +1,4 @@
+
+gcc alocacaoDinamicaVetor.c -o alocacaoDinamicaVetor
+
+./alocacaoDinamicaVetor

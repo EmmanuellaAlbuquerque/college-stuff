@@ -1,0 +1,4 @@
+
+gcc arquivoTabelA.c -o arquivoTabelA
+
+./arquivoTabelA

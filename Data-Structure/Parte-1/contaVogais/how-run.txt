@@ -1,0 +1,4 @@
+
+gcc contaVogais.c -o contaVogais
+
+./contaVogais
