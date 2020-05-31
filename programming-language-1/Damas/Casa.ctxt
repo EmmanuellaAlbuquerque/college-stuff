@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Casa
+comment0.text=\n\ Representa\ uma\ Casa\ do\ tabuleiro.\n\ Possui\ uma\ posi\u00E7ao\ (i,j)\ e\ pode\ conter\ uma\ Pe\u00E7a.\n\ \n\ @author\ Alan\ Moraes\ alan@ci.ufpb.br;\n\ @author\ Leonardo\ Villeth\ lvilleth@cc.ci.ufpb.br;\n\ @author\ Emmanuella\ F.\ Albuquerque\ emmanuellaalbuquerque@cc.ci.ufpb.br;\n
+comment1.params=x\ y
+comment1.target=Casa(int,\ int)
+comment2.params=peca
+comment2.target=void\ colocarPeca(Peca)
+comment2.text=\n\ @param\ peca\ a\ Pe\u00E7a\ a\ ser\ posicionada\ nesta\ Casa.\n
+comment3.params=
+comment3.target=void\ removerPeca()
+comment3.text=\n\ Remove\ a\ peca\ posicionada\ nesta\ casa,\ se\ houver.\n
+comment4.params=
+comment4.target=Peca\ getPeca()
+comment4.text=\n\ @return\ a\ Peca\ posicionada\ nesta\ Casa,\ ou\ Null\ se\ a\ casa\ estiver\ livre.\n
+comment5.params=
+comment5.target=boolean\ possuiPeca()
+comment5.text=\n\ @return\ true\ se\ existe\ uma\ pe\u00E7a\ nesta\ casa,\ caso\ contrario\ false.\n
+comment6.params=
+comment6.target=int\ getX()
+comment6.text=\n\ @return\ retorna\ o\ valor\ da\ coordenada\ X.\n
+comment7.params=
+comment7.target=int\ getY()
+comment7.text=\n\ @return\ retorna\ o\ valor\ da\ coordenada\ Y.\n
+numComments=8

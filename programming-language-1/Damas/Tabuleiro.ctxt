@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tabuleiro
+comment0.text=\n\ O\ Tabuleiro\ do\ jogo.\ \n\ Respons\u00E7vel\ por\ armazenar\ as\ 64\ casas.\n\ \n\ @author\ Alan\ Moraes\ alan@ci.ufpb.br;\n\ @author\ Leonardo\ Villeth\ lvilleth@cc.ci.ufpb.br;\n\ @author\ Emmanuella\ F.\ Albuquerque\ emmanuellaalbuquerque@cc.ci.ufpb.br;\n
+comment1.params=
+comment1.target=Tabuleiro()
+comment2.params=x\ y
+comment2.target=Casa\ getCasa(int,\ int)
+comment2.text=\n\ @param\ x\ linha\n\ @param\ y\ coluna\n\ @return\ Casa\ na\ posicao\ (x,y)\n
+numComments=3
