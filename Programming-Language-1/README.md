@@ -4,8 +4,8 @@
 
 <br>
 
-[Screens](#Screens)
-[Damas](https://github.com/EmmanuellaAlbuquerque/college-stuff/tree/master/Programming-Language-1/Damas) |
+[Screens](#Screens) |
+[Damas](https://github.com/EmmanuellaAlbuquerque/college-stuff/tree/master/Programming-Language-1/Damas)
 
 </td></tr></table>
 
